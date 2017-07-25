@@ -1,0 +1,41 @@
+* {
+    font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0px auto;
+}
+
+
+article > header h1 {
+    font-size: 20px;
+    margin-left: 14px;
+}
+
+article > header h1 a {
+    color: #993333;
+}
+
+article > header h1 img {
+    vertical-align:middle;
+}
+
+article > section header h1 {
+    font-size: 16px;
+}
+
+article p {
+    clear: both;
+}
+
+footer p {
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+    margin-top: 24px;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
